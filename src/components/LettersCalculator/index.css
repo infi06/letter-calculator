@@ -1,0 +1,10 @@
+/* Write your code here. */
+.bg-container {
+  background-image: linear-gradient(to left, #1d976c, #93f9b9);
+  height: 100vh;
+}
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
